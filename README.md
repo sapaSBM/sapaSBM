@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @sapaSBM
-- 👀 I’m interested in ...coding and gaming
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sagirbabamuhammad26@gmail.com or +2349067075539
-- 😄 Pronouns: ...him
-- ⚡ Fun fact: ...i am gam3r
+👋 Hi, I'm SapaSBM
 
-<!---
-sapaSBM/sapaSBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in building, learning, and exploring technology.
+
+👀 Interests
+
+💻 Coding
+
+🎮 Gaming
+
+🌱 Currently Learning
+
+🐍 Python
+
+💞️ Collaboration
+
+I'm open to collaborating on beginner-friendly and open-source projects, especially those related to Python or general software development.
+
+📫 Contact Me
+
+📧 Email: sagirbabamuhammad26@gmail.com
+
+📱 Phone: +2349067075539
+
+😄 Pronouns
+
+He/Him
+
+⚡ Fun Fact
+
+I’m a gamer at heart and enjoy combining gaming with coding creativity 🎮✨
+
+⭐️ Feel free to explore my repositories and connect with me!
